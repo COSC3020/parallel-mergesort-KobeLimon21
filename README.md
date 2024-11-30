@@ -13,7 +13,7 @@ the function and run automatically when you commit through a GitHub action.
 What is the span of the parallel program, in terms of worst-case $\Theta$? Hint:
 It may help to consider the DAG of the parallel program.
 
-The worst time complexity here is $\Theta$? (nlogn), the merging takes $\Theta$ (n) and the arrays are halved at each step which results in a recursion depth of logn. This is the same as the normal merge sort that we viewed in the slides. The span is $\Theta$(logn) as there are only log n merge steps in the recursion tree with each level done in parallel. 
+The worst time complexity here is $\Theta? (nlogn), the merging takes $\Theta$ (n) and the arrays are halved at each step which results in a recursion depth of logn. This is the same as the normal merge sort that we viewed in the slides. The span is $\Theta$(logn) as there are only log n merge steps in the recursion tree with each level done in parallel. 
 
 
 Sources:
