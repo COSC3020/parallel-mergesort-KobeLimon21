@@ -36,4 +36,4 @@ let mergesort = async function (arr) {
     let tmp = new Array(arr.length);
     await parallelMergesort(arr, 0, arr.length - 1, tmp);
 };
-
+global.mergesort = mergesort;
