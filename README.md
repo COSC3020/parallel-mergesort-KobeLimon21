@@ -16,7 +16,7 @@ It may help to consider the DAG of the parallel program.
 
 Sources:
 
-CHAT GPT - helped to figure out why my test file was not running initially
+Chat GPT - helped to figure out why my test file was not running initially
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise 
 
